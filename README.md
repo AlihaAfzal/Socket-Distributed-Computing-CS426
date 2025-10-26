@@ -76,11 +76,7 @@ Aliha: Hello everyone!
 This task builds a **TCP-based distributed quiz system** where a quiz server sends questions to all participants.
 Each participant answers within a time limit and receives a score summary at the end.
 
-### ⚙️ Files
 
-* **QuizServer.cs** – Controls quiz sessions, sends questions, receives answers, and computes results.
-* **QuizClient_Aliha.cs** – Quiz participant (User 1).
-* **QuizClient_Ansa.cs** – Quiz participant (User 2).
 
 ### Example Participants
 
